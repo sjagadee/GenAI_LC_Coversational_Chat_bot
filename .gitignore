@@ -1,2 +1,4 @@
 .env
 chroma_db/
+multiuser_chroma_db/
+multiuser_rag_app.db
